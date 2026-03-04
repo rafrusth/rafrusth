@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently enthusiastic about software engineering, and I'm looking forward to doing mini projects that can be used as part of a learning process.
+I'm exploring software engineering and looking forward to building mini-projects to gain hands-on experience.
 
 
 # 💻 Tech Stack:
